@@ -31,5 +31,5 @@ Using these sentence vectors, the following features were engineered:
 - Kurtosis Vectors
 
 ## The Model
-- Finally, after imputing the null values, I trained am XGBoost Classifier on the training data and then predicted the probability of each question pair being similar based on the features engineered.
+- Finally, after imputing the null values, I trained an XGBoost Classifier on the training data and then predicted the probability of each question pair being similar based on the features engineered.
 - Achieved an accuracy of 78%
